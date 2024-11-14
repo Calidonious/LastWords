@@ -1,0 +1,7 @@
+## Interface: 11504
+## Title: LastWords
+## Author: Calidonious
+## Version: 1.0
+## SavedVariables: TotalPlayedDB
+Lastwords.lua
+Lastwords.xml
