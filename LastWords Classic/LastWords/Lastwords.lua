@@ -1,6 +1,6 @@
 -- Initialize the addon
 local LastWordsFrame = CreateFrame("Frame")
-local lastWords = "I shall return..."  -- Default message; the user can change this
+local lastWords = "We go again!"  -- Default message; the user can change this
 
 -- Function to check player health
 local function CheckHealth()
